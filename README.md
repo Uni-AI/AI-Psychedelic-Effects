@@ -9,6 +9,7 @@ profile:
 - https://www.instagram.com/loka_vision/
 - https://twitter.com/LokaVision
 site:
+- https://www.lokavision.com/
 - store: https://calendly.com/lokavision
 
 index:
