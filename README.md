@@ -7,6 +7,7 @@ Home:
 profile:
 - https://www.youtube.com/@LokaVision
 - https://www.instagram.com/loka_vision/
+- https://twitter.com/LokaVision
 site:
 - store: https://calendly.com/lokavision
 
