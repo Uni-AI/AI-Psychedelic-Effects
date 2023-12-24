@@ -4,8 +4,11 @@ A.I. generated Psychedelic visual &amp; auditory effects. Can these be refined b
 # channel:
 ## @LokaVision
 Home:
-- profile: https://www.youtube.com/@LokaVision
-- site: https://calendly.com/lokavision
+profile:
+- https://www.youtube.com/@LokaVision
+- https://www.instagram.com/loka_vision/
+site:
+- store: https://calendly.com/lokavision
 
 index:
 - [DMT Breakthrough Simulation (POV)](https://youtu.be/RONAjJYB5bE), [High Dose SHROOMS Trip Simulation (POV)](https://youtu.be/3BxiYkCPZwI)
